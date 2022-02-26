@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect narrative of the phanatick wonders seen in the west of England. With a true relation of the particulars thereof: sent in a letter to a worthy gentleman, belonging to an alderman of the City of London. Attested under the hands of John Shipman, minister. Thomas Watkins, Church-warden. John Betterton, constable. Francis Cripps, and William Chaundler</title>
+            <author>Brown, G., of Fairford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74263</idno>
+            <idno type="STC">Wing B5017</idno>
+            <idno type="STC">Thomason E1045_6</idno>
+            <idno type="STC">ESTC R207956</idno>
+            <idno type="EEBO-CITATION">99866970</idno>
+            <idno type="PROQUEST">99866970</idno>
+            <idno type="VID">119259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119259)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect narrative of the phanatick wonders seen in the west of England. With a true relation of the particulars thereof: sent in a letter to a worthy gentleman, belonging to an alderman of the City of London. Attested under the hands of John Shipman, minister. Thomas Watkins, Church-warden. John Betterton, constable. Francis Cripps, and William Chaundler</title>
+                  <author>Brown, G., of Fairford.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Gustavus,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 4: G. Brown.</note>
+                  <note>Annotation on Thomason copy: "Sept. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119259:1" rendition="simple:additions"/>
+            <p>A Perfect Narrative Of the Phanatick WONDERS SEEN In the Weſt of ENGLAND. <hi>WITH</hi> A True Relation of the Particulars thereof: Sent in a Letter to a worthy Gentleman, belonging to an Alderman of the City of <hi>London.</hi>
+            </p>
+            <list>
+               <head>Atteſted under the Hands of</head>
+               <item>
+                  <hi>John Shipman,</hi> Miniſter.</item>
+               <item>
+                  <hi>Thomas Watkins,</hi> Church-warden.</item>
+               <item>
+                  <hi>John Betterton,</hi> Conſtable.</item>
+               <item>
+                  <hi>Francis Cripps, And</hi>
+               </item>
+               <item>
+                  <hi>William Chaundler.</hi>
+               </item>
+            </list>
+            <p>LONDON: Printed for <hi>Charles Guſtavus,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:119259:2"/>
+            <pb n="1" facs="tcp:119259:2"/>
+            <head>A Perfect Narrative OF THE Phanatique Wonders ſeen in the Weſt of England: With a true Relation there<g ref="char:EOLhyphen"/>of touching the full particulars, &amp;c.</head>
+            <p>IT is a true ſaying of one of the Antients, that Time and the Eye try out Truth, but Falſhood winneth Credit only on a ſuddain, and by uncertain<g ref="char:EOLhyphen"/>ties. And ſince Time, the moſt ſure and impartiall Judge, hath ſentenced thoſe glorious Pretences with which our late Politicians did veyl themſelves, to be nothing elſe by gilded Hypocriſies; ſo alſo ſhall we preſent the World with the odious Frauds of ſome
+<pb n="2" facs="tcp:119259:3"/> Phanatique Impoſtures; who in a late Seditious Pam<g ref="char:EOLhyphen"/>phlet, endeavoured to ſuggeſt unto the People a won<g ref="char:EOLhyphen"/>derful Story of an Army of Frogs at Fairford in Glouceſterſhire: Whereas, indeed, the true particu<g ref="char:EOLhyphen"/>lars thereof had long ſince been communicated to publike View, had they not miſcarryed in the hands of the Carryer: But a true Copy thereof being tran<g ref="char:EOLhyphen"/>ſmitted to the hands of a worthy Gentleman, at an Aldermans houſe in the City of London, be pleaſed to take a view thereof, VIZ.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Loving Cozen,</salute>
+                  </opener>
+                  <p>THE beſt of my Affections ſalute you, &amp;c. Theſe are to repreſent, That for your laſt Letter give you thanks: And whereas you write, that you admire you did not hear from me in Anſwer to your laſt Letter, I did write; And the Carryer promiſed me the deli<g ref="char:EOLhyphen"/>vering it with his own hands, for whoſe neglect I am ſorry. And as concerning the Paper-book incloſed in your Letter, I received: In anſwer whereunto, as near, and as credibly as poſſibly I can, I have endeavoured; <hi>to wit, June</hi> the 16th laſt paſt, it pleaſed God to ſend Us plenty of Rain and Thun<g ref="char:EOLhyphen"/>der ſhowres, which was very welcome, God ſend us thankful Hearts, and free us from lying Tongues: After which Rain, my Landlord Eſquire <hi>Barker</hi> having ſome old Fiſh-Ponds in his Orchard and Ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lets. Theſe Ponds being fill'd afreſh with the Rain and other Supplies, there did (which will appear by perfect Evidence, an Annual Cuſtomary thing not onely in that place, but in all other about our Neighbourhood Pa<g ref="char:EOLhyphen"/>riſhes)
+<pb facs="tcp:119259:3"/> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſue forth of theſe Ponds and Ditches great ſtore of young Froggs and Water Toads, which in length were an Inch or hardly ſo long, ſhifting and hopping to and fro, be<g ref="char:EOLhyphen"/>ing out of their Watery <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ement: Inſomuch, that if any would have taken the pains to view them, ſhifting ſome one way, ſome another, they might have ſeen thouſands of theſe ſilly poor Varments, which was as uſuall as the year did pro<g ref="char:EOLhyphen"/>ceed: Which ſilly Creatures, without any manner of pre<g ref="char:EOLhyphen"/>ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ice or off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce unto Man<g ref="char:punc">▪</g> Woman, or Child, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve<g ref="char:EOLhyphen"/>ning and Night were cleared<g ref="char:punc">▪</g> Wherefore, in Anſwer to the Verity of your Book, and theſe Zealots that were the Founders, for the od<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouſneſs thereof, I ſhall leave that to the Judgments of you and your Friends had the Prayers of theſe Zealots prev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lencie: But God will not hearken to Prayers where Malice is the Foundation. We may perceive by theſe true Informers, who would turn Magicians, if they knew how to raiſe the Plagues of <hi>Aegypt</hi> amongſt Us, were not God's Mercies ſuperabundant, who hath chained up their malice? But now, like <hi>Demetrius,</hi> their Trade and hopes of enjoyment, that which was never left them by Inheritance, being void, they ſummon up the Brethren to cry down by their vicious and abhorred Lyes. And whereas in your Letter you pitty the perſons concerned, might they, or could they have or find out any ſure ground how they might finde out or know theſe true Informers, what the Law of Man would, for ſuch abominable groſs Lyers afford, in no wiſe be wanting; but for that it is at preſent omitted for want of a ground-work.</p>
+                  <p>As for the Verity hereof, the Perſons who have ſubſcri<g ref="char:EOLhyphen"/>bed their hands, will, and are ready for the maintaining the ſame.</p>
+                  <p>Wherefore, loving Kinſman, if it may not be too much prejudice unto you, That the mouthes of ſuch abominable
+<pb n="4" facs="tcp:119259:4"/> Lyars may be ſtopt, that you uſe a meanes (through this Letter) for the prevalency of a Book to be printed to the contrary; which if you can, and do perform Us this favour, it ſhall not (God willing) to the uttermoſt be forgotten, with<g ref="char:EOLhyphen"/>all deſiring with what expedition may be, a ſpeedy return of ſome few Copies. Thus expecting your loving Anſwer, I leave you to the preſervation of Him that is the Preſerver of Us all, and reſt,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Fairford</hi> 
+                        <date>the 13th. 1660.</date>
+                     </dateline>
+                     <signed>Your loving <g ref="char:V">Ʋ</g>nckle, <hi>G. BROWN.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Truth of this Narrative, contained in the pre<g ref="char:EOLhyphen"/>cedent Letter, is atteſted under the Hands of</p>
+            <list>
+               <item>
+                  <hi>John Shipman,</hi> Miniſter.</item>
+               <item>
+                  <hi>Thomas Watkins,</hi> Church-warden,</item>
+               <item>
+                  <hi>John Betterton,</hi> Conſtable.</item>
+               <item>
+                  <hi>Francis Cripps,</hi>
+               </item>
+               <item>
+                  <hi>William Chaundler.</hi>
+               </item>
+            </list>
+            <p>Thus having fully evinced theſe Politick Contu<g ref="char:EOLhyphen"/>melies, of their Libellous and def<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mtory Reports, may we not clearly diſcern their Phanatick miſchiefs in which they are implicated? Their Deſires are impoſſible, their Attempts are wicked, and their Re<g ref="char:EOLhyphen"/>ports are falſe and ſcandalous: And is it poſſible that after all this, any Perſon ſhould be ſuch a ſuper<g ref="char:EOLhyphen"/>lative
+<pb n="5" facs="tcp:119259:4"/> Phanatick, as to need extrinſick Arguments to reclaim them? Surely it cannot be; except he be rooted in his Errour, as they ſay <hi>Marſus Diaboli</hi> roots it ſelf in the Earth, which can never be pulled up without breaking. However, I do not doubt, but as <hi>Sue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onius</hi> reports, that <hi>Aug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtus Caeſar</hi> walking by a Pond where the Froggs were croaking, comman<g ref="char:EOLhyphen"/>ded them to keep ſilence, and they were never after heard to make any Noyſe in that Place: So all that harſh roaring, and diſcordant clamour both in their Libellous Paper, and Airy Invention, will ere long, 'tis hopes, by the Command of our Gracious Sove<g ref="char:EOLhyphen"/>reign be ſilenc'd and reſtrained.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
